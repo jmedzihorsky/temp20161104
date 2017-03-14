@@ -1,0 +1,5 @@
+﻿process-oriented: process, charter, implementation, dialogue, constructive, consensus, diplomatic, reconciliation, settlement, comprehensive, inclusive, mediation, effort, negotiation, proposal, solution
+action-oriented: urgent, action, assistance, support, aid, sanctions, arrest, stop, intervention, end, deliver
+conflict: conflict, violence, tension, struggle, war, stability, destabilize, security, crisis, escalate, incite, threat, chaos, cycle, fighting, casualties, losses, parties, clash, dispute
+crime: repression, humanity, crime, moral, torture, persecution, abuse, oppress, repress, life, incite, tyranny, terrorism, children, women, perpetrator, victims, accountable, massacre, crackdown, targeting, indiscriminate, brutal, barrel, genocide, cleansing, school, hospital, kill
+criticism: pretext, justification, intervention, outside, interference
